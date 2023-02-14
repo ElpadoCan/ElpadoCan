@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Francesco Padovani and I'm the creator of the Bioimage Analysis tool [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC). I'm a Postdoc in the [Schmoller Lab](https://www.helmholtz-munich.de/en/ife/research-groups/schmoller-lab) interested in mitochondria biology and, of course bioimage analysis. Feel free to contact me with any questions or feedback about our tools!<br>
+I am Francesco Padovani and I'm the creator of the Bioimage Analysis tool [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC). I'm a Postdoc in the [Schmoller Lab](https://www.helmholtz-munich.de/en/ife/research-groups/schmoller-lab) interested in making AI accessible to everyone through user-friendly GUIs. Feel free to contact me with any questions or feedback about our tools!<br>
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/frank_pado.svg?style=social&label=Follow%20%40frank_pado)](https://twitter.com/frank_pado)
 
